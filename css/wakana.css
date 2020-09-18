@@ -1,0 +1,8 @@
+body h1{
+  color: coral;
+  float: center;
+}
+
+body h2{
+  border-bottom: darkgoldenrod;
+}
